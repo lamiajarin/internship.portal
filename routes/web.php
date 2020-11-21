@@ -43,4 +43,7 @@ Route::get('/candidate/lists',[UserController::class,'candidatelist'] )->name('c
 Route::get('/category/lists',[UserController::class,'categorylist'] )->name('categorylist');
 
 
+//comment
+
+
 
