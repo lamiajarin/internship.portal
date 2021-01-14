@@ -1,7 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c468551-710f-4613-9b17-c23d4865a327" name="Default Changelist" comment="" />
+    <list default="true" id="1c468551-710f-4613-9b17-c23d4865a327" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Backend/CandidateListController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Backend/EmployeeListController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Frontend/CandidateController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Frontend/EmployeeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Personal_Details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Work_Sample.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_11_22_084407_create_personal__details_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/css/A.open-iconic-bootstrap.min.css+animate.css+owl.carousel.min.css+owl.theme.default.min.css+magnific-popup.css+aos.css+ionicons.min.css+bootstrap-datepicker.css+jquery.timep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/css/A.open-iconic-bootstrap.min.css+animate.css+owl.carousel.min.css+owl.theme.default.min.css+magnific-popup.css+aos.css+ionicons.min.css+bootstrap-datepicker.css+jquery.timepicker.css+fl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/css/open-iconic-bootstrap.min.css+animate.css+owl.carousel.min.css+owl.theme.default.min.css+magnific-popup.css+aos.css+ionicons.min.css+bootstrap-datepicker.css+jquery.timepic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/css/open-iconic-bootstrap.min.css+animate.css+owl.carousel.min.css+owl.theme.default.min.css+magnific-popup.css+aos.css+ionicons.min.css+bootstrap-datepicker.css+jquery.timepicker.css+flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/css/owl.video.play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/flaticon/font/Flaticond41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/icomoon/icomoonccfb.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/icomoon/icomoonccfb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/icomoon/icomoonccfb.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/icomoon/icomoonccfb.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/ionicons/fonts/ionicons580c.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/ionicons/fonts/ionicons580c.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/ionicons/fonts/ionicons580c.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/ionicons/fonts/ionicons580c.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/ionicons/fonts/ionicons580c.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/open-iconic/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/open-iconic/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/open-iconic/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/open-iconic/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/fonts/open-iconic/open-iconicd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/bg_1.jpg.pagespeed.ce.xDddZs2GLj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/company-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/company-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/company-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/company-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/image_3.jpg.pagespeed.ce.Thi0VC4TzY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/image_5.jpg.pagespeed.ce.tfAFV3CO3H.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/image_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/image_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/image_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/person_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/person_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/person_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/person_3.jpg.pagespeed.ce.UU7uGwbd9K.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/person_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/person_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/person_5.jpg.pagespeed.ce._i1Qht5Udt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/person_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/xcompany-1.jpg.pagespeed.ic.LgDxn0psom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/xcompany-2.jpg.pagespeed.ic.5xTMZ3xbJr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/xcompany-3.jpg.pagespeed.ic.9GizOncUrp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/xcompany-4.jpg.pagespeed.ic.5ZI9cJjzOp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/ximage_1.jpg.pagespeed.ic.tM59KbQme_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/ximage_2.jpg.pagespeed.ic.JUUqqs1xpw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/ximage_4.jpg.pagespeed.ic.iQi5R55HWd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/ximage_7.jpg.pagespeed.ic.HYWI76NUJ7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/ximage_8.jpg.pagespeed.ic.LyPwtAOaoS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/xperson_1.jpg.pagespeed.ic.P4pHl6glbj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/xperson_2.jpg.pagespeed.ic.yyrmjBH91b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/xperson_4.jpg.pagespeed.ic.sgz97bCjv4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/images/xperson_6.jpg.pagespeed.ic.4bUrIXZSJT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/js/jquery-migrate-3.0.1.min.js+popper.min.js+bootstrap.min.js.pagespeed.jc.OMdG5wOanl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/js/jquery.easing.1.3.js+jquery.waypoints.min.js+jquery.stellar.min.js+owl.carousel.min.js.pagespeed.jc.eIjPVBLGB7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/js/jquery.magnific-popup.min.js+aos.js+jquery.animateNumber.min.js+scrollax.min.js+google-map.js+main.js.pagespeed.jc.MpOlperOpa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/frontend/js/jquery.min.js.pagespeed.jm.xZH2zNe7lE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/contents/InternshipList.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/contents/candidateList.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/contents/companyDetails.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/contents/employeeList.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/contents/report.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/users/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/applied_internship.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/applied_internship_details.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/candidate_education_edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/candidate_experience.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/candidate_home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/candidate_profile.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/candidate_profile_edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/candidate_project.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/candidate_skill.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/candidate_training.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/candidate_work_sample.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/edit_resume.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/education_details.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/job_short_list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/resume_print.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/candidate/view_resume.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/category_wise_view.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/application_details.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/candidate_list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/company.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/employee_home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/employee_profile.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/manage_internship.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/manage_internship_edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/post_internship.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/report.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/sort_list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/employee/view_internship_post.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/job_browse.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/partial/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/partial/nav.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/search.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/users/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/frontend/users/registration.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/oips.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oips.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Backend/CandidateController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Backend/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Backend/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Backend/CompanyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Backend/CompanyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Backend/EmployeeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Backend/VacancyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Backend/PostInternshipController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Skill.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/Answer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/Candidate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Education.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/Company.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Company.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/Employee.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Exprence.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/Exam.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Sort_List.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/Facilitie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/Internship.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/Question.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/QuestionSet.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Models/Result.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_203215_create_admins_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_22_084834_create_skills_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_203520_create_candidates_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_12_062203_create_profiles_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_203650_create_employees_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_22_084819_create_exprences_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_204007_create_companies_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_13_204007_create_companies_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_204539_create_internships_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_13_204539_create_internships_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_204708_create_facilities_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_204804_create_exams_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_22_062647_create_sort__lists_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_204852_create_questions_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_22_084704_create_education_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_204947_create_answers_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_205034_create_question_sets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_22_084859_create_work__samples_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_205123_create_results_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_16_054415_create_vacancies_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_16_064000_create_categories_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_16_064000_create_categories_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/forgot-password.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/reset-password.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/two-factor-challenge.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/verify-email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/contents/candidate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/contents/category_edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/contents/category.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/contents/category.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/contents/company.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/contents/companylist.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/contents/companylist.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/contents/employee.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/contents/categorylist.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/contents/vacancy.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/layout/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/layout/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/layout/main_content.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/layout/main_content.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/layout/saidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/layout/saidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboard.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +200,16 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -131,9 +331,15 @@
       <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
       <path value="$PROJECT_DIR$/vendor/psr/container" />
       <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kEyjvVobUJSVyA1ULfZJYB3QhQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -141,13 +347,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ips" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fall2020b1" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\oips\resources\views\backend" />
+      <recent name="C:\xampp\htdocs\oips\app\Http\Controllers\Frontend" />
+      <recent name="C:\xampp\htdocs\oips\app\Models" />
+      <recent name="C:\xampp\htdocs\oips\resources\views\frontend" />
+      <recent name="C:\xampp\htdocs\oips\resources\views\frontend\employee" />
+      <recent name="C:\xampp\htdocs\oips\resources\views\backend\contents" />
     </key>
   </component>
   <component name="RunManager">
@@ -174,37 +385,156 @@
       <workItem from="1605467101182" duration="2393000" />
       <workItem from="1605501572915" duration="8616000" />
       <workItem from="1605831415935" duration="910000" />
-      <workItem from="1605935122258" duration="5085000" />
+      <workItem from="1605935122258" duration="14129000" />
+      <workItem from="1605959149908" duration="9672000" />
+      <workItem from="1606022656441" duration="7829000" />
+      <workItem from="1606064028635" duration="2850000" />
+      <workItem from="1606106152157" duration="8425000" />
+      <workItem from="1607232240617" duration="4379000" />
+      <workItem from="1607256834755" duration="2154000" />
+      <workItem from="1607320999266" duration="15464000" />
+      <workItem from="1607405767331" duration="1235000" />
+      <workItem from="1607568967673" duration="3608000" />
+      <workItem from="1607603173680" duration="16763000" />
+      <workItem from="1607677066754" duration="4063000" />
+      <workItem from="1607696009508" duration="587000" />
+      <workItem from="1607788065773" duration="9501000" />
+      <workItem from="1607850346990" duration="4130000" />
+      <workItem from="1607923174171" duration="12975000" />
+      <workItem from="1608109703231" duration="4581000" />
+      <workItem from="1608226396928" duration="7675000" />
+      <workItem from="1608306095134" duration="5262000" />
+      <workItem from="1608353633950" duration="21168000" />
+      <workItem from="1608390921631" duration="9118000" />
+      <workItem from="1608401653545" duration="1821000" />
+      <workItem from="1608451419243" duration="200000" />
+      <workItem from="1608453279743" duration="6862000" />
+      <workItem from="1608526474793" duration="15789000" />
+      <workItem from="1608546523271" duration="6116000" />
+      <workItem from="1608553267900" duration="1626000" />
+      <workItem from="1608825436434" duration="4583000" />
+      <workItem from="1608869692873" duration="18595000" />
+      <workItem from="1609318302604" duration="4318000" />
+      <workItem from="1609323986539" duration="10335000" />
+      <workItem from="1609340477365" duration="11701000" />
+      <workItem from="1609563110782" duration="18335000" />
+      <workItem from="1609585098349" duration="2066000" />
+      <workItem from="1609602167977" duration="10639000" />
+      <workItem from="1609615220288" duration="2025000" />
+      <workItem from="1609649118252" duration="28451000" />
+      <workItem from="1609687524014" duration="13077000" />
+      <workItem from="1609734906607" duration="28796000" />
+      <workItem from="1609779600304" duration="5843000" />
+      <workItem from="1609821692993" duration="19043000" />
+      <workItem from="1609842672908" duration="862000" />
+      <workItem from="1609858772759" duration="17694000" />
+      <workItem from="1609909043499" duration="17465000" />
+      <workItem from="1609951797350" duration="3516000" />
+      <workItem from="1610031322586" duration="18394000" />
+      <workItem from="1610051610538" duration="320000" />
+      <workItem from="1610069853858" duration="11969000" />
+      <workItem from="1610102922195" duration="3006000" />
+      <workItem from="1610106684330" duration="4529000" />
+      <workItem from="1610168219941" duration="27268000" />
+      <workItem from="1610197816517" duration="2511000" />
+      <workItem from="1610210306002" duration="2422000" />
+      <workItem from="1610254709384" duration="5313000" />
+      <workItem from="1610298463633" duration="5442000" />
+      <workItem from="1610339034488" duration="31516000" />
+      <workItem from="1610387720234" duration="2223000" />
+      <workItem from="1610428798285" duration="27410000" />
+      <workItem from="1610468660666" duration="423000" />
+      <workItem from="1610513988162" duration="43680000" />
+      <workItem from="1610590465283" duration="4439000" />
+      <workItem from="1610598420595" duration="28945000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605388091667">
+    <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606025364277">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1605388091667" />
-    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605940429760">
+    <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1606025364277" />
+    <state x="428" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610103617443">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605940429760" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605420362052">
+    <state x="428" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1610103617443" />
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1610555396869">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605420362052" />
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1610555396869" />
+    <state x="367" y="0" width="645" height="728" key="#phpunit.xml" timestamp="1610538747289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="367" y="0" width="645" height="728" key="#phpunit.xml/0.0.1366.728@0.0.1366.728" timestamp="1610538747289" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1610340518195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610340518195" />
     <state x="471" y="87" key="NewPhpClassDialog" timestamp="1605394946830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="471" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1605394946830" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1605385237067">
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1610459267372">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605385237067" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605512077199">
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1610459267372" />
+    <state width="529" height="446" key="SwitcherDM" timestamp="1610633131762">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605512077199" />
+    <state width="529" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1610633131762" />
+    <state x="0" y="0" width="747" height="728" key="find.popup" timestamp="1610348610943">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="747" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1610348610943" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1610524945986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1610524945986" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610632166273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610632166273" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/frontend/employee/employee_home.blade.php</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/backend/layout/header.blade.php</url>
+          <line>214</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/backend/layout/header.blade.php</url>
+          <line>205</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/frontend/partial/footer.blade.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
